@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zzendrix
 - 👀 I’m interested in swimming
-- 🌱 I’m currently learning ReactNative, AI
+- 🌱 I’m currently learning ReactNative
 - 💞️ I’m looking to collaborate on Leetcode
 
 
