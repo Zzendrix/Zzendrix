@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Zzendrix
-- 👀 I’m interested in swimming
 - 🌱 I’m currently learning ReactNative
 - 💞️ I’m good at iOS develop
 
